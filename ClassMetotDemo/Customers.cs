@@ -10,7 +10,7 @@ namespace ClassMetotDemo
         public string customerName { get; set; }
         public string customerSurname { get; set; }
         public int customerAge { get; set; }
-        public float customerTC { get; set; }
+        public long customerTC { get; set; }
 
 
     }

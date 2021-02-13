@@ -27,6 +27,7 @@ namespace ClassMetotDemo
             customer3.customerAge = 35;
             customer3.customerTC = 48965874125;
 
+
             CustomerManager manager = new CustomerManager();
             Console.WriteLine("Add komutu");
             manager.Add(customer1);
